@@ -105,3 +105,34 @@ body {
   padding-top: 100px;
   color: white;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ============CUSTOMIZE SCROLL BAR================ */
+
+::-webkit-scrollbar{
+  width: 15px;
+
+}
+::-webkit-scrollbar-track{
+  background: #97cee8;
+}
+
+::-webkit-scrollbar-thumb{
+  background: linear-gradient(#8cbee2, #b84eff);
+
+}
